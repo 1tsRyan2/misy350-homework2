@@ -54,3 +54,4 @@
 5. You pressed `Ctrl+C` during setup and `.venv` is broken:
 - rerun `python3 setup_script.py` (or `python setup_script.py` on Windows)
 - the script now auto-rebuilds incomplete `.venv` folders
+
